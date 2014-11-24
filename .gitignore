@@ -1,1 +1,17 @@
+# Ignore All
+minecraft/*
 
+# Include Mods
+!minecraft/mods/
+
+# Include resouces
+!minecraft/resourcepacks/
+
+# Include texturepacks
+!minecraft/texturepacks/
+
+!minecraft/config/
+
+!minecraft/coremods/
+
+!instance.cfg
