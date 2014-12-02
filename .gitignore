@@ -15,3 +15,26 @@ minecraft/*
 !minecraft/coremods/
 
 !instance.cfg
+
+!servers.dat
+
+#Ignored Files
+
+minecraft/usernamecache.json
+minecraft/asm/*
+minecraft/journeymap/*
+minecraft/logs/*
+minecraft/saves/*
+*.log
+minecraft/asm/ccl_modular/aaf.txt
+minecraft/asm/ccl_modular/agq.txt
+minecraft/asm/ccl_modular/aji.txt
+minecraft/asm/ccl_modular/alb.txt
+minecraft/asm/ccl_modular/ama.txt
+minecraft/asm/ccl_modular/bex.txt
+minecraft/asm/ccl_modular/bfl.txt
+minecraft/asm/ccl_modular/codechicken#nei#guihook#DefaultSlotClickHandler.txt
+minecraft/asm/ccl_modular/codechicken#nei#guihook#GuiContainerManager.txt
+minecraft/asm/ccl_modular/dh.txt
+minecraft/asm/ccl_modular/dq.txt
+minecraft/usernamecache.json
