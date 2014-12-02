@@ -19,6 +19,7 @@ minecraft/*
 !servers.dat
 
 #Ignored Files & folders
+natives/*
 minecraft/crash-reports/*
 minecraft/backups/*
 minecraft/usernamecache.json
